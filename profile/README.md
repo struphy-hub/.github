@@ -1,4 +1,4 @@
-![Struphy logo](struphy_header_with_subs) 
+![Struphy logo](struphy_header_with_subs.png) 
 
 # Welcome!
 
